@@ -1,0 +1,28 @@
+[31-Jan-2020 11:49:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/byowmbia/testing.fashionfactory/app/Http/Controllers/clientController.php on line 764
+[29-Sep-2020 12:16:53 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home/byowmbia/testing.fashionfactory/storage/framework/views/e533ae9b80eecd1506125807c35053b40ae67dd9.php on line 118
+[19-Nov-2020 07:24:25 UTC] PHP Fatal error:  Cannot use [] for reading in /home/byowmbia/yoc/storage/framework/views/50ee24aa62a2cbc604dc12744df0f0d69f919bb6.php on line 147
+[19-Nov-2020 07:25:29 UTC] PHP Fatal error:  Cannot use [] for reading in /home/byowmbia/yoc/storage/framework/views/50ee24aa62a2cbc604dc12744df0f0d69f919bb6.php on line 147
+[23-Nov-2020 04:19:56 America/New_York] PHP Warning:  include(/home/byowmbia/yoc/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/byowmbia/yoc/vendor/composer/ClassLoader.php on line 444
+[23-Nov-2020 04:19:56 America/New_York] PHP Warning:  include(): Failed opening '/home/byowmbia/yoc/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/byowmbia/yoc/vendor/composer/ClassLoader.php on line 444
+[23-Nov-2020 04:19:56 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/byowmbia/yoc/vendor/laravel/frame in /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[23-Nov-2020 04:20:08 America/New_York] PHP Warning:  include(/home/byowmbia/yoc/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/byowmbia/yoc/vendor/composer/ClassLoader.php on line 444
+[23-Nov-2020 04:20:08 America/New_York] PHP Warning:  include(): Failed opening '/home/byowmbia/yoc/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/byowmbia/yoc/vendor/composer/ClassLoader.php on line 444
+[23-Nov-2020 04:20:08 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/byowmbia/yoc/vendor/laravel/frame in /home/byowmbia/yoc/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[19-Jan-2021 08:14:13 UTC] PHP Fatal error:  Can't use method return value in write context in /home/byowmbia/yoc/app/Http/Controllers/adminController.php on line 277
+[19-Jan-2021 08:14:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/byowmbia/yoc/app/Http/Controllers/adminController.php on line 277
+[19-Jan-2021 08:14:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/byowmbia/yoc/app/Http/Controllers/adminController.php on line 277
+[19-Jan-2021 08:14:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/byowmbia/yoc/app/Http/Controllers/adminController.php on line 277
